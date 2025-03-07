@@ -1,7 +1,7 @@
 # NodeJS server demo
 
 ## To run the app on your machine, first clone it: 
-`git clone https://github.com/nodejs-rest-api-demo`
+`git clone https://github.com/munyi-victor/nodejs-rest-api-demo`
 
 ## Install the dependencies:
 `cd nodejs-rest-api-demo`
