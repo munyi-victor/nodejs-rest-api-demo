@@ -1,4 +1,4 @@
-# NodeJS server demo
+# NodeJS REST API Demo
 
 ## To run the app on your machine, first clone it: 
 `git clone https://github.com/munyi-victor/nodejs-rest-api-demo`
