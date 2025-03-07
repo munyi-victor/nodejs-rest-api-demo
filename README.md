@@ -11,11 +11,12 @@
 `node index.js`
 
 ##
-## To test the `GET` route, go to Thunder Client/Postman create a new request and type this:
+### To test the `GET` route, go to Thunder Client/Postman create a new request and type this:
 `http://localhost:3000/users`
 ### Then click `Send`
 
-## To test the `POST` route, go to Thunder Client/Postman create a new request, change the type to `POST` and type this:
+##
+### To test the `POST` route, go to Thunder Client/Postman create a new request, change the type to `POST` and type this:
 `http://localhost:3000/users`
 ### In the `Body` section, add this data(in JSON format):
 `
@@ -27,7 +28,8 @@
 `
 ### Then click `Send`
 
-## To test the `PUT` route, go to Thunder Client/Postman create a new request, change the type to `PUT` and type this:
+##
+### To test the `PUT` route, go to Thunder Client/Postman create a new request, change the type to `PUT` and type this:
 `http://localhost:3000/users/2`
 ### In the `Body` section, add this data(in JSON format):
 `
@@ -43,7 +45,8 @@
 `http://localhost:3000/users`
 ### Then click `Send`
 
-## To test the `DELETE` route, go to Thunder Client/Postman create a new request, change the type to `DELETE` and type this:
+##
+### To test the `DELETE` route, go to Thunder Client/Postman create a new request, change the type to `DELETE` and type this:
 `http://localhost:3000/users/2`
 ### The user with id 2 will be deleted, to test this, send the GET request again:
 ### Go to Thunder Client/Postman change the type to `PUT` and type this:
