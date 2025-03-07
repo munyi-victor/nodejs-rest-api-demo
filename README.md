@@ -10,6 +10,7 @@
 ## Run the app, now:
 `node index.js`
 
+##
 ## To test the `GET` route, go to Thunder Client/Postman create a new request and type this:
 `http://localhost:3000/users`
 ### Then click `Send`
